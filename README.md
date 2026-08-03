@@ -11,5 +11,5 @@ Software Engineering graduate with a strong foundation in full-stack development
 - **Infrastructure & Tools:** GitHub, Nginx, vSphere, Docker, Postman, Wireshark
 
 ### 📫 How to reach me
-- **LinkedIn:** [ใส่ลิงก์ LinkedIn ของคุณที่นี่]
+- **LinkedIn:** 
 - **Email:** vilaseenlapa.lim@gmail.com
